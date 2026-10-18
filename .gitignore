@@ -1,0 +1,8 @@
+.env
+*.iso
+*.msi
+*.zip
+*.qcow2
+*.pem
+*.key
+splunk-data/
